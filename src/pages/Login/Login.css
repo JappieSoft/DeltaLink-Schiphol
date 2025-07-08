@@ -1,0 +1,22 @@
+.background{
+    background: url("src/assets/Login_Background.png") lightgray 50% / cover no-repeat;
+    width: 100%;
+    height: 100vh;
+    flex-shrink: 0;
+}
+
+/*
+// Delta Link Schiphol
+color: 'white', fontSize: 36, fontFamily: 'Cabin', fontWeight: '400', wordWrap: 'break-word'
+---
+// User email:
+   color: 'white', fontSize: 22, fontFamily: 'Cabin', fontWeight: '400', wordWrap: 'break-word'
+---
+// Password:
+   color: 'white', fontSize: 22, fontFamily: 'Cabin', fontWeight: '400', wordWrap: 'break-word'
+---
+// Trouble Signing In?
+   color: 'black', fontSize: 24, fontFamily: 'Cabin', fontWeight: '400', wordWrap: 'break-word'
+---
+// Login
+   color: 'white', fontSize: 24, fontFamily: 'Cabin', fontWeight: '400', wordWrap: 'break-word'*/
